@@ -1,7 +1,6 @@
-## Olá! Sou o Fadul 👋
+## Hey, I'm Fadul! 👋
 
-Me interesso pela área de Técnologia no Geral, porém com mais apreço para desenvolvimento de software e infraestrutura. <br>
-Atualmente trabalho com Spring Boot, Angular e PostgreSQL.
+My stack
 
 <div style="display: inline_block"><br>
 
